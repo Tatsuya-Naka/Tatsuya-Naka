@@ -1,10 +1,9 @@
-Hi, everyone! I am Tatsuya. I am a full-time student in Tokyo, Japan. I am also a research student seeking a Bachelor of Electrical, Electronic, and Communication Engineering.
-I am learning C++, Python, and Web App Languages(HTML, CSS, and JavaScript). 
-I am glad to reach out to everyone on Github to pave the way for the IT development. 
+Hi, everyone! I am Tatsuya. I am a full-time student in Sydney, Australia. I am studying Computer Science for my Master's degree.
+I am glad to reach out to everyone on Github to pave the way for great software development.
 
-Thank you for reading my biref profile. 
+Thank you for reading my brief profile. 
 
-If you get interested in me even a little, feel free to message me!
+If you get interested in me even a little, please feel free to message me!
 
 Tatsuya Nakagomi
-Chuo University
+The University of Sydney
