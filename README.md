@@ -1,9 +1,8 @@
-Hi, everyone! I am Tatsuya. I am a full-time student in Sydney, Australia. I am studying Computer Science for my Master's degree.
-I am glad to reach out to everyone on Github to pave the way for great software development.
+##About me
+### Hi! I'm Tatsuya, studying Computer Science at the University of Sydney
+・I'm learning Docker, Kubernetes, Azure, and Flask
+・I researched in the biomedical & medical engineering to develop a software for rehabilitation training of Electric gloves that enables finger movement synchronized with the user's motor intention, using C/C++, windows API, Arduino, and M5 Series. I also created a GUI (Graphical User interface) for medical staff. (I cannot provide this because this is a collaborative research with the University of California, Irvine.
 
-Thank you for reading my brief profile. 
-
-If you get interested in me even a little, please feel free to message me!
-
-Tatsuya Nakagomi
-The University of Sydney
+## Portfolio
+[Portfolio](https://tatsuya-naka.github.io/profile/)
+・This is my portfolio
