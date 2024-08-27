@@ -16,7 +16,7 @@
 
 ・It is built with Express.js, Axios, and MongoDB.
 
-### [2. Financial Management App - React.js & MongoDB (Currently working)](https://github.com/Tatsuya-Naka/finmanage)
+### [2. Financial Management App - React.js & MongoDB (currently working)](https://github.com/Tatsuya-Naka/finmanage)
 
 ・This is my first web application development
 
