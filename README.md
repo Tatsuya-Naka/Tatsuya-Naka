@@ -55,4 +55,4 @@
 ・CSS
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)
+### [LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)
