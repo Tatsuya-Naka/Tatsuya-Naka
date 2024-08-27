@@ -5,7 +5,7 @@
 ・I conducted research in biomedical and medical engineering, focusing on developing software for rehabilitation training with electric gloves. This system enables finger movement synchronized with the user's motor intentions, using C/C++, Windows API, Arduino, and M5 Series. Additionally, I created a graphical user interface (GUI) for medical staff. (Please note that I cannot provide this work as it was part of a collaborative research project with the University of California, Irvine.)
 
 ## Portfolio
-[Portfolio](https://tatsuya-naka.github.io/profile/)
+### [Portfolio](https://tatsuya-naka.github.io/profile/)
 
 ・This is my portfolio
 
