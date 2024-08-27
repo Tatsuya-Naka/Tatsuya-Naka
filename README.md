@@ -10,13 +10,13 @@
 ・This is my portfolio
 
 ## Project
-[1. To-do List - Express.js & MongoDB](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)
+### [1. To-do List - Express.js & MongoDB](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)
 
 ・I developed a to-do list application to understand basic backend concepts. 
 
 ・It is built with Express.js, Axios, and MongoDB.
 
-[2. Financial Management App - React.js & MongoDB (Currently working)](https://github.com/Tatsuya-Naka/finmanage)
+### [2. Financial Management App - React.js & MongoDB (Currently working)](https://github.com/Tatsuya-Naka/finmanage)
 
 ・This is my first web application development
 
