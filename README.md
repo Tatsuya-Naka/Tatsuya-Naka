@@ -29,6 +29,8 @@
 ### Programming Language
 ・C/C++
 
+・TypeScript
+
 ・JavaScript
 
 ・Python
@@ -38,6 +40,8 @@
 ### Backend 
 ・AWS - AWS Certified Developer - Associate (Apr 2024 - Apr 2027)
 
+・NextJs
+
 ・MongoDB
 
 ・Express.js
@@ -46,11 +50,6 @@
 
 ・Git
 
-・Azure
-
-・Docker
-
-・Kubernetes
 
 ### Frontend
 ・React.js
