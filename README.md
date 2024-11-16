@@ -17,7 +17,7 @@
 ・It is built with Express.js, Axios, and MongoDB.
 ### [2. dev.to clone App using NextJs & Typescript](https://github.com/Tatsuya-Naka/blogging-clone)
 
-・I built a fully functional [dev.to](https://dev.to/) clone from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC for two weeks.
+・I built a fully functional [dev.to](https://dev.to/) clone from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC.
 
 ・Users can seamlessly create, update, and delete posts.
 
