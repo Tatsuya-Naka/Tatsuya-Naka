@@ -15,7 +15,7 @@
 ・I developed a to-do list application to understand basic backend concepts. 
 
 ・It is built with Express.js, Axios, and MongoDB.
-### [2. dev.to clone App using NextJs & Typescript](https://github.com/Tatsuya-Naka/blogging-clone)
+### [2. dev.to clone App - NextJs & Typescript & AWS S3](https://github.com/Tatsuya-Naka/blogging-clone)
 
 ・I built a fully functional [dev.to](https://dev.to/) clone from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC.
 
