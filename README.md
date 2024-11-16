@@ -15,8 +15,17 @@
 ・I developed a to-do list application to understand basic backend concepts. 
 
 ・It is built with Express.js, Axios, and MongoDB.
+### [2. dev.to clone App using NextJs & Typescript](https://github.com/Tatsuya-Naka/blogging-clone)
 
-### [2. Financial Management App - React.js & MongoDB (currently working)](https://github.com/Tatsuya-Naka/finmanage)
+・I built a fully functional [dev.to clone](https://dev.to/) from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC for two weeks.
+
+・Users can seamlessly create, update, and delete posts.
+
+・Bookmarks and like posts to keep track of your favorites.
+
+・Engage with discussions by leaving comments, replying to others, and liking messages with threads.
+
+### [3. Financial Management App - React.js & MongoDB (currently working)](https://github.com/Tatsuya-Naka/finmanage)
 
 ・This is my first web application development
 
