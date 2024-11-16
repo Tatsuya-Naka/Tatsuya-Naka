@@ -42,11 +42,11 @@
 
 ・NextJs
 
+・PostgreSQL
+
 ・MongoDB
 
 ・Express.js
-
-・PostgreSQL
 
 ・Git
 
