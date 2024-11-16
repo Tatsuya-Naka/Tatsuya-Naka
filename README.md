@@ -25,10 +25,6 @@
 
 ・Engage with discussions by leaving comments, replying to others, and liking messages with threads.
 
-### [3. Financial Management App - React.js & MongoDB (currently working)](https://github.com/Tatsuya-Naka/finmanage)
-
-・This is my first web application development
-
 ## My Tech Stack
 ### Programming Language
 ・C/C++
