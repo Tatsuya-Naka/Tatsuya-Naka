@@ -25,7 +25,7 @@
 
 ・Engage with discussions by leaving comments, replying to others, and liking messages with threads.
 
-### [3. Household Management App](https://github.com/Tatsuya-Naka/household-management) - Currently Working
+### [3. Household Management App](https://github.com/Tatsuya-Naka/household-management-app) - Currently Working
 
 ## My Tech Stack
 ### Programming Language
