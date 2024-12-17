@@ -10,11 +10,10 @@
 ・This is my portfolio
 
 ## Project
-### [1. To-do List - Express.js & MongoDB](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)
+### [1. Household Management App](https://github.com/Tatsuya-Naka/household-management-app) - Currently Working
 
-・I developed a to-do list application to understand basic backend concepts. 
+・Building a household management web application using NextJs, TypeScript, React, AWS (Amazon SQS, AWS Lambda, and Amazon S3).
 
-・It is built with Express.js, Axios, and MongoDB.
 ### [2. dev.to clone App - NextJs & Typescript & AWS S3](https://github.com/Tatsuya-Naka/blogging-clone)
 
 ・I built a fully functional [dev.to](https://dev.to/) clone from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC.
@@ -25,8 +24,11 @@
 
 ・Engage with discussions by leaving comments, replying to others, and liking messages with threads.
 
-### [3. Household Management App](https://github.com/Tatsuya-Naka/household-management-app) - Currently Working
-・Building a household management web application using NextJs, TypeScript, React, AWS (Amazon SQS, AWS Lambda, and Amazon S3).
+### [3. To-do List - Express.js & MongoDB](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)
+
+・I developed a to-do list application to understand basic backend concepts. 
+
+・It is built with Express.js, Axios, and MongoDB.
 
 ## My Tech Stack
 ### Programming Language
