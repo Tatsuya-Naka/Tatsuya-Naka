@@ -34,9 +34,9 @@
 ### Programming Language
 ・C/C++
 
-・TypeScript
+・TypeScript/JavaScript
 
-・JavaScript
+・Ruby
 
 ・Python
 
@@ -45,23 +45,19 @@
 ### Backend 
 ・AWS - AWS Certified Developer - Associate (Apr 2024 - Apr 2027)
 
-・NextJs
+・Ruby on Rails
 
-・PostgreSQL
+・PostgreSQL/MySQL
 
 ・MongoDB
 
 ・Express.js
 
-・Git
-
 
 ### Frontend
-・React.js
+・NextJs
 
-・HTML
-
-・CSS
+・ReactJs
 
 ## Connect with Me
 ### [LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)
