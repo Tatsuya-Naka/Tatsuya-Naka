@@ -32,7 +32,7 @@
 
 ## My Tech Stack
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya-Naka&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya-Naka&layout=compact&langs_count=6&count_private=true)
 
 ### Programming Language
 ・C/C++
