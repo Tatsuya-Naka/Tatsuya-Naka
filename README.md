@@ -47,6 +47,8 @@
 
 ・Ruby on Rails
 
+・Django
+
 ・PostgreSQL/MySQL
 
 ・MongoDB
