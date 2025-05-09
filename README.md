@@ -31,10 +31,6 @@
 ・It is built with Express.js, Axios, and MongoDB.
 
 ## My Tech Stack
-### 📊 Most Used Languages
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatsuya-Naka&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatsuya-Naka&layout=compact&count_private=true)
-
 ### Programming Language
 ・C/C++
 
