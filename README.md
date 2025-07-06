@@ -1,13 +1,12 @@
 ## About me
 ### Hi! I'm Tatsuya, studying Computer Science at the University of Sydney
-・I’m currently learning Nextjs, Typescript, and Ruby on Rails.
+・I’m currently learning Cloud Computing and Machine Learning.
 
 ・I conducted research in biomedical and medical engineering, focusing on developing software for rehabilitation training with electric gloves. This system enables finger movement synchronized with the user's motor intentions, using C/C++, Windows API, Arduino, and M5 Series. Additionally, I created a graphical user interface (GUI) for medical staff.
 
 ## Portfolio
-### [Portfolio](https://tatsuya-naka.github.io/profile/)
+### [Portfolio](https://tn-profile-one.vercel.app/)
 
-・This is my portfolio
 
 ## Project
 ### [1. Household Management App](https://github.com/Tatsuya-Naka/household-management-app) - Currently Working
@@ -40,14 +39,18 @@
 
 ・Python
 
-・PHP
+・Java
 
 ### Backend 
+・Terraform
+
 ・AWS - AWS Certified Developer - Associate (Apr 2024 - Apr 2027)
 
 ・Ruby on Rails
 
 ・Django
+
+・FastAPI
 
 ・PostgreSQL/MySQL
 
@@ -60,6 +63,8 @@
 ・NextJs
 
 ・ReactJs
+
+・AngularJs
 
 ## Connect with Me
 ### [LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)
