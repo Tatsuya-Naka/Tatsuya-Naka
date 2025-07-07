@@ -7,9 +7,9 @@ I’m currently learning Cloud Computing and Machine Learning.
 
 I’m a solution-focused Full Stack & Infrastructure Engineer currently pursuing my Master’s in Computer Science at the University of Sydney, with a Bachelor’s degree in Electrical and Communication Engineering from Chuo University, where I graduated in the top 2% of my cohort.
 
-With hands-on experience across the full development lifecycle, I’ve worked on production-scale applications like SpotsNinja (100K+ users), contributing to core features and backend integrations using TypeScript, Next.js, Node.js, and Ruby on Rails. I also implemented CI/CD pipelines and AWS-based release monitoring systems, improving development workflow reliability for a project, I am working on personally.
+With hands-on experience across the full development lifecycle, I’ve worked on production-scale applications like SpotsNinja (100K+ users), contributing to core features and backend integrations using TypeScript, Next.js, Node.js, and Ruby on Rails. I am also implementing CI/CD pipelines and AWS-based release monitoring systems, improving development workflow reliability for a project, I am working on personally.
 
-Beyond app development, I have strong interests and experience in cloud infrastructure and DevOps. I’ve built infrastructure using Terraform, Docker, GitHub Actions, and deployed full-stack apps to AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda). I hold the AWS Certified Developer – Associate credential and am actively building infrastructure-focused projects to deepen my expertise.
+Beyond app development, I have strong interests and experience in cloud infrastructure and DevOps. I’ve built infrastructure using Terraform, Docker, GitHub Actions, and deployed full-stack apps to AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda, Bedrock). I hold the AWS Certified Developer – Associate credential and am actively building infrastructure-focused projects to deepen my expertise.
 
 ## Portfolio
 ### [Portfolio](https://tn-profile-one.vercel.app/)
