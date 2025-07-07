@@ -16,7 +16,7 @@ Beyond app development, I have strong interests and experience in cloud infrastr
 
 
 ## Project
-### [1. Household Management App](https://github.com/Tatsuya-Naka/household-management-app) - Currently Working
+### [1. Household Management App](https://github.com/Tatsuya-Naka/household-management-app)
 
 - Building a household management web application using NextJs, TypeScript, React, AWS (Amazon SQS, AWS Lambda, and Amazon S3).
 
