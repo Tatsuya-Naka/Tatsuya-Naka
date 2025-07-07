@@ -49,7 +49,7 @@ Beyond app development, I have strong interests and experience in cloud infrastr
 - Java
 
 ### Infrastructure
-- AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda, BedRock)
+- AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda, Bedrock)
 
 - Terraform
 
