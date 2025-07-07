@@ -1,4 +1,7 @@
 ## About me
+
+Full Stack & Infrastructure Engineer | AWS Certified Developer | MSc CS @ USYD | TypeScript, Next.js, Node.js, Terraform, Docker, MongoDB | Ex-Audi | Open to Full-Stack & Backend & Cloud Roles
+
 ### Hi! I'm Tatsuya, studying Computer Science at the University of Sydney
 I’m currently learning Cloud Computing and Machine Learning.
 
