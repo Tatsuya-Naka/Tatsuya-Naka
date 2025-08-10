@@ -9,7 +9,7 @@ I’m a solution-focused Full Stack & Infrastructure Engineer currently pursuing
 
 With hands-on experience across the full development lifecycle, I’ve worked on production-scale applications like SpotsNinja (100K+ users), contributing to core features and backend integrations using TypeScript, Next.js, Node.js, and Ruby on Rails. I am also implementing CI/CD pipelines and AWS-based release monitoring systems, improving development workflow reliability for a project, I am working on personally.
 
-Beyond app development, I have strong interests and experience in cloud infrastructure and DevOps. I’ve built infrastructure using Terraform, Docker, GitHub Actions, and deployed full-stack apps to AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda, Bedrock). I hold the AWS Certified Developer – Associate credential and am actively building infrastructure-focused projects to deepen my expertise.
+Beyond app development, I have strong interests and experience in cloud infrastructure and DevOps. I’ve built infrastructure using Terraform, Docker, GitHub Actions, and deployed full-stack apps to AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, ECS, SNS, SQS, Lambda, Bedrock). I hold the AWS Certified Developer – Associate credential and am actively building infrastructure-focused projects to deepen my expertise.
 
 ## Portfolio
 ### [Portfolio](https://tn-profile-one.vercel.app/)
