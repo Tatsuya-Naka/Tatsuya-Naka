@@ -63,11 +63,11 @@ Beyond app development, I have strong interests and experience in cloud infrastr
 
 - Express
 
-・Ruby on Rails
+- Ruby on Rails
 
-・Django
+- Django
 
-・FastAPI
+- FastAPI
 
 ### Tools
 - PostgreSQL/MySQL
