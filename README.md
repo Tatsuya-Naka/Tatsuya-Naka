@@ -8,9 +8,9 @@ I’m a solution-focused Full Stack & Infrastructure Engineer currently pursuing
 
 I have hands-on experience building **production-scale applications** at startups and internships:  
 
-- **Zepi**: Full Stack Engineer & CIO – co-founded and led the design of an **AI-powered career pathway platform**. Built cloud-native infrastructure with **AWS (ECS, ALB, RDS, ElastiCache, CloudFront, Route53)** using **Terraform**, implemented **CI/CD pipelines**, integrated **LLMs (Claude 3.7)** for personalized assessments and chatbot support, and released an MVP in weeks tested by real users.  
+- **Zepi**: Full Stack Engineer & CIO – co-founded and led the design of an **AI-powered career pathway platform**. Built cloud-native infrastructure with **AWS (ECS, ALB, RDS, ElastiCache, CloudFront, Route53)** using **Terraform**, implemented **CI/CD pipelines**, integrated **LLMs** for personalized assessments and chatbot support, and released an MVP in weeks tested by real users.  
 
-- **Aeolia (SpotsNinja)**: Full Stack Engineer (Intern) – contributed to a lifestyle and local information app with **150K+ global users**. Implemented **dynamic event/spot pages**, developed **AI-driven content pipelines** that increased engagement by **150%+**, built **automated failure notifications with Slack**, and optimized **staging environments, load balancers, and Nginx proxies**.  
+- **aeolia ([SpotsNinja](https://spotsninja.com/))**: Full Stack Engineer (Intern) – contributed to a lifestyle and local information app with **150K+ global users**. Implemented **dynamic event/spot pages**, developed **AI-driven content pipelines** that increased engagement by **150%+**, built **automated cost-efficient lifecycle with AWS**, and optimized **staging environments, load balancers, and Nginx proxies**.  
 
 I am particularly passionate about **cloud-native systems, DevOps automation, and AI integration**, and I hold the **AWS Certified Developer – Associate** credential.  
 
@@ -32,7 +32,7 @@ I am particularly passionate about **cloud-native systems, DevOps automation, an
 ### 2. SpotsNinja – Lifestyle & Local Information App (Aeolia) *(contributions under NDA)*  
 - Supported a platform with **150K+ users**.  
 - Implemented event/spot collection pages and AI-driven ranking pipelines.  
-- Improved reliability with automated failure notifications and infrastructure tuning.  
+- Improved reliability with automated cost-efficient lifecycle and infrastructure tuning.  
 
 ### 3. [Household Management App](https://github.com/Tatsuya-Naka/household-management-app)  
 - Income/expense tracker with CRUD, OCR-based receipt scanning, multi-currency support, and authentication.  
@@ -51,11 +51,11 @@ I am particularly passionate about **cloud-native systems, DevOps automation, an
 ## My Tech Stack  
 
 **Programming:** C/C++, TypeScript/JavaScript, Python, Ruby, Java  
-**Backend:** Node.js, Express, FastAPI, Ruby on Rails, Django  
+**Backend:** Node.js, Express, FastAPI, Ruby on Rails, Django, Spring Boot
 **Frontend:** Next.js, React.js, Tailwind CSS  
 **Infrastructure & DevOps:** AWS (ECS, ALB, RDS, S3, CloudFront, ElastiCache, CodePipeline/Build/Deploy, Lambda, SNS, SQS, Bedrock), Terraform, Docker, GitHub Actions  
 **Databases:** PostgreSQL, MySQL, MongoDB  
-**Other Tools:** Linux, Git, Nginx, CI/CD pipelines, Monitoring/Alerting systems  
+**Other Tools:** Linux, Git, Nginx, CI/CD pipelines, Monitoring/Alerting systems, AI Agents
 
 ---
 
