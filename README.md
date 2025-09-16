@@ -29,7 +29,7 @@ I am particularly passionate about **cloud-native systems, DevOps automation, an
 - Integrated LLMs for personalized assessments and chatbot functionality.  
 - Built CI/CD pipelines and monitoring systems for reliability.  
 
-### 2. SpotsNinja – Lifestyle & Local Information App (Aeolia) *(contributions under NDA)*  
+### 2. SpotsNinja – Lifestyle & Local Information App (aeolia) *(contributions under NDA)*  
 - Supported a platform with **150K+ users**.  
 - Implemented event/spot collection pages and AI-driven ranking pipelines.  
 - Improved reliability with automated cost-efficient lifecycle and infrastructure tuning.  
