@@ -1,90 +1,66 @@
-## About me
+## About me  
 
-Full Stack & Infrastructure Engineer | AWS Certified Developer | MSc CS @ USYD | TypeScript, Next.js, Node.js, Terraform, Docker, MongoDB | Ex-Audi | Open to Full-Stack & Backend & Cloud Roles
+**Full Stack & Infrastructure Engineer | AWS Certified Developer | MSc CS @ USYD | AI & Cloud Enthusiast | Open to Full-Stack, Backend & Cloud Roles**  
 
-### Hi! I'm Tatsuya, studying Computer Science at the University of Sydney
-I’m currently learning Cloud Computing and Machine Learning.
+### Hi! I'm Tatsuya
 
-I’m a solution-focused Full Stack & Infrastructure Engineer currently pursuing my Master’s in Computer Science at the University of Sydney, with a Bachelor’s degree in Electrical and Communication Engineering from Chuo University, where I graduated in the top 2% of my cohort.
+I’m a solution-focused Full Stack & Infrastructure Engineer currently pursuing my **Master’s in Computer Science at the University of Sydney**, with a **Bachelor’s in Electrical & Communication Engineering from Chuo University (top 2% of cohort)**.  
 
-With hands-on experience across the full development lifecycle, I’ve worked on production-scale applications like SpotsNinja (100K+ users), contributing to core features and backend integrations using TypeScript, Next.js, Node.js, and Ruby on Rails. I am also implementing CI/CD pipelines and AWS-based release monitoring systems, improving development workflow reliability for a project, I am working on personally.
+I have hands-on experience building **production-scale applications** at startups and internships:  
 
-Beyond app development, I have strong interests and experience in cloud infrastructure and DevOps. I’ve built infrastructure using Terraform, Docker, GitHub Actions, and deployed full-stack apps to AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, ECS, SNS, SQS, Lambda, Bedrock). I hold the AWS Certified Developer – Associate credential and am actively building infrastructure-focused projects to deepen my expertise.
+- **Zepi**: Full Stack Engineer & CIO – co-founded and led the design of an **AI-powered career pathway platform**. Built cloud-native infrastructure with **AWS (ECS, ALB, RDS, ElastiCache, CloudFront, Route53)** using **Terraform**, implemented **CI/CD pipelines**, integrated **LLMs (Claude 3.7)** for personalized assessments and chatbot support, and released an MVP in weeks tested by real users.  
 
-## Portfolio
-### [Portfolio](https://tn-profile-one.vercel.app/)
+- **Aeolia (SpotsNinja)**: Full Stack Engineer (Intern) – contributed to a lifestyle and local information app with **150K+ global users**. Implemented **dynamic event/spot pages**, developed **AI-driven content pipelines** that increased engagement by **150%+**, built **automated failure notifications with Slack**, and optimized **staging environments, load balancers, and Nginx proxies**.  
 
+I am particularly passionate about **cloud-native systems, DevOps automation, and AI integration**, and I hold the **AWS Certified Developer – Associate** credential.  
 
-## Project
-### [1. Household Management App](https://github.com/Tatsuya-Naka/household-management-app)
+---
 
-- Building a household management web application using NextJs, TypeScript, React, AWS (Amazon SQS, AWS Lambda, and Amazon S3).
+## Portfolio  
+[Portfolio Website](https://tn-profile-one.vercel.app/)  
 
-### [2. dev.to clone App - NextJs & Typescript & AWS S3](https://github.com/Tatsuya-Naka/blogging-clone)
+---
 
-- I built a fully functional [dev.to](https://dev.to/) clone from scratch using t3-app with Next.js, Typescript, AWS S3, Prisma, Tailwind CSS, and tRPC.
+## Featured Projects  
 
-- Users can seamlessly create, update, and delete posts.
+### 1. Zepi – AI Career Pathway Platform *(private repo, available on request)*  
+- AI-powered platform for international students & professionals to plan careers in Australia.  
+- Architected AWS-based infrastructure with Terraform (ECS, ALB, RDS, ElastiCache, CloudFront).  
+- Integrated LLMs for personalized assessments and chatbot functionality.  
+- Built CI/CD pipelines and monitoring systems for reliability.  
 
-- Bookmarks and like posts to keep track of your favorites.
+### 2. SpotsNinja – Lifestyle & Local Information App (Aeolia) *(contributions under NDA)*  
+- Supported a platform with **150K+ users**.  
+- Implemented event/spot collection pages and AI-driven ranking pipelines.  
+- Improved reliability with automated failure notifications and infrastructure tuning.  
 
-- Engage with discussions by leaving comments, replying to others, and liking messages with threads.
+### 3. [Household Management App](https://github.com/Tatsuya-Naka/household-management-app)  
+- Income/expense tracker with CRUD, OCR-based receipt scanning, multi-currency support, and authentication.  
+- Designed dashboards and automated background tasks with cloud services.  
 
-### [3. To-do List - Express.js & MongoDB](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)
+### 4. [dev.to Clone](https://github.com/Tatsuya-Naka/blogging-clone)  
+- Blogging platform inspired by dev.to.  
+- Users can create, update, delete posts, bookmark/like, and comment.  
 
-- I developed a to-do list application to understand basic backend concepts. 
+### 5. [To-do List App](https://github.com/Tatsuya-Naka/To-do-list-using-Express.js-and-MongoDB)  
+- Introductory backend project.  
+- CRUD functionality built with Express.js and MongoDB.  
 
-- It is built with Express.js, Axios, and MongoDB.
+---
 
-## My Tech Stack
-### Programming Language
-- C/C++
+## My Tech Stack  
 
-- TypeScript/JavaScript
+**Programming:** C/C++, TypeScript/JavaScript, Python, Ruby, Java  
+**Backend:** Node.js, Express, FastAPI, Ruby on Rails, Django  
+**Frontend:** Next.js, React.js, Tailwind CSS  
+**Infrastructure & DevOps:** AWS (ECS, ALB, RDS, S3, CloudFront, ElastiCache, CodePipeline/Build/Deploy, Lambda, SNS, SQS, Bedrock), Terraform, Docker, GitHub Actions  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Other Tools:** Linux, Git, Nginx, CI/CD pipelines, Monitoring/Alerting systems  
 
-- Ruby
+---
 
-- Python
+## Connect with Me  
 
-- Java
-
-### Infrastructure
-- AWS (EC2, S3, CloudFront, ECR, RDS, ElastiCache, CodePipeline, CodeBuild, AppRunner, SNS, SQS, Lambda, Bedrock)
-
-- Terraform
-
-- Docker
-
-- GitHub Actions
-  
-
-### Backend 
-- Node.js
-
-- Express
-
-- Ruby on Rails
-
-- Django
-
-- FastAPI
-
-### Tools
-- PostgreSQL/MySQL
-
-- MongoDB
-
-- Linux
-
-- Git
-
-
-### Frontend
-- NextJs
-
-- ReactJs
-
-- Tailwind CSS
-
-## Connect with Me
-### [LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)
+- [LinkedIn](https://www.linkedin.com/in/tatsuya-nakagomi-9231a7239/)  
+- [GitHub](https://github.com/Tatsuya-Naka)  
+- [Portfolio](https://tn-profile-one.vercel.app/)  
