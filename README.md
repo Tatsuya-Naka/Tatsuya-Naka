@@ -10,7 +10,7 @@ I have hands-on experience building **production-scale applications** at startup
 
 - **Zepi**: Full Stack Engineer & CIO – co-founded and led the design of an **AI-powered career pathway platform**. Built cloud-native infrastructure with **AWS (ECS, ALB, RDS, ElastiCache, CloudFront, Route53)** using **Terraform**, implemented **CI/CD pipelines**, integrated **LLMs** for personalized assessments and chatbot support, and released an MVP in weeks tested by real users.  
 
-- **aeolia ([SpotsNinja](https://spotsninja.com/))**: Full Stack Engineer (Intern) – contributed to a lifestyle and local information app with **150K+ global users**. Implemented **dynamic event/spot pages**, developed **AI-driven content pipelines** that increased engagement by **150%+**, built **automated cost-efficient lifecycle with AWS**, and optimized **staging environments, load balancers, and Nginx proxies**.  
+- **aeolia ([SpotsNinja](https://spotsninja.com/))**: Full Stack Engineer (Intern) – contributed to a lifestyle and local information app with **250K+ global users**. Implemented **dynamic event/spot pages**, developed **AI-driven content pipelines** that increased engagement by **150%+**, built **automated cost-efficient lifecycle with AWS**, and optimized **staging environments, load balancers, and Nginx proxies**.  
 
 I am particularly passionate about **cloud-native systems, DevOps automation, and AI integration**, and I hold the **AWS Certified Developer – Associate** credential.  
 
