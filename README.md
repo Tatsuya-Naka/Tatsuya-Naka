@@ -52,10 +52,10 @@ I am particularly passionate about **cloud-native systems, DevOps automation, an
 
 **Programming:** C/C++, TypeScript/JavaScript, Python, Ruby, Java  
 **Backend:** Node.js, Express, FastAPI, Ruby on Rails, Django, Spring Boot
-**Frontend:** Next.js, React.js, Tailwind CSS  
+**Frontend:** Next.js, React.js, Tailwind CSS, Flutter
 **Infrastructure & DevOps:** AWS (ECS, ALB, RDS, S3, CloudFront, ElastiCache, CodePipeline/Build/Deploy, Lambda, SNS, SQS, Bedrock), Terraform, Docker, GitHub Actions, Azure 
 **Databases:** PostgreSQL, MySQL, MongoDB  
-**Other Tools:** Linux, Git, Nginx, CI/CD pipelines, Monitoring/Alerting systems, AI Agents, Flutter
+**Other Tools:** Linux, Git, Nginx, CI/CD pipelines, Monitoring/Alerting systems, AI Agents
 
 ---
 
